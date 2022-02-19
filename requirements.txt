@@ -1,0 +1,9 @@
+# --------- pytorch --------- #
+torch==1.8.1
+torchvision==0.9.1
+
+# --------- others --------- #
+albumentations==1.0.0
+tqdm==4.60.0
+matplotlib==3.3.4
+numpy==1.19.5
