@@ -7,7 +7,7 @@ Homeworks:
 - [ ] 02.2: Vision Transformers
 - [ ] 03.1: Face recognition
 - [x] 03.2: Variational AutoEncoder
-- [ ] 03.3: Face GAN
+- [x] 03.3: Face GAN
 
 Seminars: 
 - [ ] 01: Torch Intro
