@@ -10,8 +10,8 @@ Homeworks:
 - [x] 03.3: Face GAN
 
 Seminars: 
-- [ ] 01: Torch Intro
-- [ ] 02: Convnets
+- [x] 01: Torch Intro
+- [x] 02: Convnets
 - [ ] 04: Dense prediction
 - [x] 05: Vision Transformer
 - [ ] 06: Visual adversarials
