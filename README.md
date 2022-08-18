@@ -4,7 +4,7 @@ Homeworks:
 - [x] 01.1: Torch basics
 - [ ] 01.2: Image classification
 - [ ] 02.1: Semantic segmentation
-- [ ] 02.2: Vision Transformers
+- [x] 02.2: Vision Transformers
 - [ ] 03.1: Face recognition
 - [x] 03.2: Variational AutoEncoder
 - [x] 03.3: Face GAN
