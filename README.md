@@ -2,7 +2,7 @@
 
 Homeworks:
 - [x] 01.1: Torch basics
-- [ ] 01.2: Image classification
+- [x] 01.2: Image classification
 - [ ] 02.1: Semantic segmentation
 - [x] 02.2: Vision Transformers
 - [ ] 03.1: Face recognition
@@ -12,7 +12,7 @@ Homeworks:
 Seminars: 
 - [x] 01: Torch Intro
 - [x] 02: Convnets
-- [ ] 04: Dense prediction
+- [x] 04: Dense prediction
 - [x] 05: Vision Transformer
 - [ ] 06: Visual adversarials
 - [ ] 07: Object detectors
